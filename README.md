@@ -12,11 +12,13 @@ Em 1930, Getúlio Vargas havia tomado o poder a partir da revolução de 1930, a
 
 Para rodar você precisará rodar os seguintes comandos no terminal do pycharm:
 
+```
 pip install pygame
 
 pip install numpy
 
 pip install noise
+```
 
 Depois, para rodar o servidor, siga o tutorial nesse vídeo: 
 
